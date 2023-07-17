@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "PlatformService.sln",
+    "cSpell.words": [
+        "Dtos"
+    ]
+}
